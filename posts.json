@@ -314,8 +314,7 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778289279/ig-posts/xeogtn1hfleydbpnoeo8.mp4",
       "caption": "captions/counselorwebinar-lepitch.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/reel/DYZh86miTtt/",
-      "posted_at": "2026-05-16T12:06:25+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "multiply300-reel",
@@ -374,8 +373,7 @@
       "image": "assets/quote-cards/w3may-q4-i-dont-know-yet.png",
       "caption": "captions/w3may-q4-i-dont-know-yet.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZiBiTDVt3/",
-      "posted_at": "2026-05-16T12:06:37+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w3may-q5-right-age-to-start",
@@ -384,8 +382,7 @@
       "image": "assets/quote-cards/w3may-q5-right-age-to-start.png",
       "caption": "captions/w3may-q5-right-age-to-start.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZiDJ8DbPE/",
-      "posted_at": "2026-05-16T12:06:53+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w3may-q6-better-at-pretending",
@@ -394,8 +391,7 @@
       "image": "assets/quote-cards/w3may-q6-better-at-pretending.png",
       "caption": "captions/w3may-q6-better-at-pretending.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZiE9HDfI-/",
-      "posted_at": "2026-05-16T12:07:05+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w3may-q7-plan-worth-making",
@@ -404,8 +400,7 @@
       "image": "assets/quote-cards/w3may-q7-plan-worth-making.png",
       "caption": "captions/w3may-q7-plan-worth-making.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZiGf6mP1_/",
-      "posted_at": "2026-05-16T12:07:19+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "namita-ep1-beat1",
@@ -424,8 +419,7 @@
       "caption": "captions/namita-ep1-beat2.txt",
       "state": "done",
       "reel": "assets/reels/namita-ep1/cut-B-question-full-v.mp4",
-      "permalink": "https://www.instagram.com/reel/DYZiJC4HNik/",
-      "posted_at": "2026-05-16T12:08:04+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "namita-ep1-beat3",
@@ -434,8 +428,7 @@
       "caption": "captions/namita-ep1-beat3.txt",
       "state": "done",
       "reel": "assets/reels/namita-ep1/cut-C-report-card-hero-v.mp4",
-      "permalink": "https://www.instagram.com/reel/DYZiOe2lBQc/",
-      "posted_at": "2026-05-16T12:08:43+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "namita-ep1-beat4a-carousel",
@@ -454,8 +447,7 @@
       ],
       "caption": "captions/namita-ep1-beat4a-carousel.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZiYUVjd5v/",
-      "posted_at": "2026-05-16T12:09:49+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "namita-ep1-beat4b",
@@ -491,8 +483,7 @@
       "image": "assets/quote-cards/w7may-sticker-card-1.png",
       "caption": "captions/w7may-sticker-card-1.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZiae-jXna/",
-      "posted_at": "2026-05-16T12:10:02+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-sticker-card-3",
@@ -501,8 +492,7 @@
       "image": "assets/quote-cards/w7may-sticker-card-3.png",
       "caption": "captions/w7may-sticker-card-3.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZicTHDaH2/",
-      "posted_at": "2026-05-16T12:10:18+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-sticker-card-6",
@@ -511,8 +501,7 @@
       "image": "assets/quote-cards/w7may-sticker-card-6.png",
       "caption": "captions/w7may-sticker-card-6.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZid-8mFId/",
-      "posted_at": "2026-05-16T12:10:32+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-sticker-card-7",
@@ -529,8 +518,7 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778634158/ig-posts/ohsamwffpmrp7vkdmihh.mp4",
       "caption": "captions/w7may-actually-06.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/reel/DYZifzhFaz9/",
-      "posted_at": "2026-05-16T12:11:12+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-actually-07-reel",
@@ -539,8 +527,7 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778634168/ig-posts/zcp4vscfsydkpgk7bvsz.mp4",
       "caption": "captions/w7may-actually-07.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/reel/DYZilHcCpnT/",
-      "posted_at": "2026-05-16T12:11:59+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-actually-08-reel",
@@ -549,8 +536,7 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778634234/ig-posts/v6fvdprsjfo2y9a1ktsi.mp4",
       "caption": "captions/w7may-actually-08.txt",
       "state": "done",
-      "permalink": "https://www.instagram.com/reel/DYZiqXAjfet/",
-      "posted_at": "2026-05-16T12:12:38+00:00"
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w8may-painters-carousel",
@@ -574,7 +560,7 @@
       "id": "w8may-midlayer-reel",
       "when": "2026-05-20T15:30:00+00:00",
       "type": "reel",
-      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778933042/letter-153/midlayer-v2.mp4",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778934322/letter-153/midlayer-v3.mp4",
       "caption": "captions/midlayer.txt",
       "state": "pending"
     },
@@ -605,6 +591,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-16T12:25:02.142771Z",
+  "generated_at": "2026-05-16T12:26:01.871281Z",
   "count": 54
 }
