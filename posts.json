@@ -462,8 +462,10 @@
       "when": "2026-05-17T13:00:00+00:00",
       "type": "reel",
       "caption": "captions/namita-ep1-beat4b.txt",
-      "state": "pending",
-      "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4"
+      "state": "done",
+      "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4",
+      "permalink": "https://www.instagram.com/reel/DYcM9tQCtPK/",
+      "posted_at": "2026-05-17T13:00:47+00:00"
     },
     {
       "id": "w7may-sticker-carousel",
@@ -607,6 +609,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-17T13:00:01.959888Z",
+  "generated_at": "2026-05-17T13:01:02.083903Z",
   "count": 54
 }
