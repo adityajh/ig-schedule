@@ -572,7 +572,9 @@
         "assets/carousels/painters-not-printers/slide-09.png"
       ],
       "caption": "captions/painters-carousel.txt",
-      "state": "pending"
+      "state": "done",
+      "permalink": "https://www.instagram.com/p/DYhnz91DJI1/",
+      "posted_at": "2026-05-19T15:31:09+00:00"
     },
     {
       "id": "w8may-midlayer-reel",
@@ -609,6 +611,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-19T15:31:01.588328Z",
+  "generated_at": "2026-05-19T15:32:01.878723Z",
   "count": 54
 }
