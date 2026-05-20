@@ -582,7 +582,9 @@
       "type": "reel",
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778934322/letter-153/midlayer-v3.mp4",
       "caption": "captions/midlayer.txt",
-      "state": "pending"
+      "state": "done",
+      "permalink": "https://www.instagram.com/reel/DYkMgSMjCHr/",
+      "posted_at": "2026-05-20T15:30:34+00:00"
     },
     {
       "id": "w8may-19yo-carousel",
@@ -611,6 +613,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-20T15:30:01.476377Z",
+  "generated_at": "2026-05-20T15:31:01.210264Z",
   "count": 54
 }
