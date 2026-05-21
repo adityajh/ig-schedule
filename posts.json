@@ -629,8 +629,53 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779323159/ig-posts/m4wcf4qgi8t90qdgkljp.mp4",
       "caption": "captions/actually11.txt",
       "state": "pending"
+    },
+    {
+      "id": "podcast-n9-namita-formula",
+      "when": "2026-05-22T05:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/N9",
+      "reel": "assets/reels/podcast/COVERED_N9-OnSelfAwareness.mp4",
+      "caption": "captions/podcast-n9-selfawareness.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-b1-bodyofwork",
+      "when": "2026-05-23T03:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B1",
+      "reel": "assets/reels/podcast/COVERED_B1-WhatisBodyofWork.mp4",
+      "caption": "captions/podcast-b1-bodyofwork.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-b6-engineer",
+      "when": "2026-05-23T12:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B6",
+      "reel": "assets/reels/podcast/COVERED_B6-Engineering.mp4",
+      "caption": "captions/podcast-b6-engineer.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-b2-resume-buffet",
+      "when": "2026-05-24T04:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B2",
+      "reel": "assets/reels/podcast/COVERED_B2-ResumeBuffet.mp4",
+      "caption": "captions/podcast-b2-resume.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-n6-namita-ragadna",
+      "when": "2026-05-26T03:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/N6",
+      "reel": "assets/reels/podcast/COVERED_N6-RagadnaPadtaHai.mp4",
+      "caption": "captions/podcast-n6-ragadna.txt",
+      "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T04:49:01.890958Z",
-  "count": 56
+  "generated_at": "2026-05-21T04:50:01.849629Z",
+  "count": 61
 }
