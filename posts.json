@@ -464,7 +464,8 @@
       "caption": "captions/namita-ep1-beat4b.txt",
       "state": "done",
       "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4",
-      "last_error": "idempotency-guard: id in fired_ids.log"
+      "permalink": "https://www.instagram.com/reel/DYlLdItDCVx/",
+      "posted_at": "2026-05-21T00:40:44+00:00"
     },
     {
       "id": "w7may-sticker-carousel",
@@ -522,7 +523,8 @@
       "image": "assets/quote-cards/w7may-sticker-card-7.png",
       "caption": "captions/w7may-sticker-card-7.txt",
       "state": "done",
-      "last_error": "idempotency-guard: id in fired_ids.log"
+      "permalink": "https://www.instagram.com/p/DYlLh7ciP_E/",
+      "posted_at": "2026-05-21T00:41:03+00:00"
     },
     {
       "id": "w7may-actually-06-reel",
@@ -571,7 +573,8 @@
       ],
       "caption": "captions/painters-carousel.txt",
       "state": "done",
-      "last_error": "idempotency-guard: id in fired_ids.log"
+      "permalink": "https://www.instagram.com/p/DYlLvlgiFn3/",
+      "posted_at": "2026-05-21T00:42:58+00:00"
     },
     {
       "id": "w8may-midlayer-reel",
@@ -580,7 +583,8 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778934322/letter-153/midlayer-v3.mp4",
       "caption": "captions/midlayer.txt",
       "state": "done",
-      "last_error": "idempotency-guard: id in fired_ids.log"
+      "permalink": "https://www.instagram.com/reel/DYlLyX5DmLg/",
+      "posted_at": "2026-05-21T00:43:41+00:00"
     },
     {
       "id": "w8may-19yo-carousel",
@@ -627,6 +631,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T00:43:01.410363Z",
+  "generated_at": "2026-05-21T00:44:02.022491Z",
   "count": 56
 }
