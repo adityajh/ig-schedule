@@ -462,10 +462,8 @@
       "when": "2026-05-17T13:00:00+00:00",
       "type": "reel",
       "caption": "captions/namita-ep1-beat4b.txt",
-      "state": "done",
-      "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4",
-      "permalink": "https://www.instagram.com/reel/DYcM9tQCtPK/",
-      "posted_at": "2026-05-17T13:00:47+00:00"
+      "state": "pending",
+      "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4"
     },
     {
       "id": "w7may-sticker-carousel",
@@ -522,9 +520,7 @@
       "type": "image",
       "image": "assets/quote-cards/w7may-sticker-card-7.png",
       "caption": "captions/w7may-sticker-card-7.txt",
-      "state": "done",
-      "permalink": "https://www.instagram.com/p/DYZ5U27mPZp/",
-      "posted_at": "2026-05-16T15:30:15+00:00"
+      "state": "pending"
     },
     {
       "id": "w7may-actually-06-reel",
@@ -572,9 +568,7 @@
         "assets/carousels/painters-not-printers/slide-09.png"
       ],
       "caption": "captions/painters-carousel.txt",
-      "state": "done",
-      "permalink": "https://www.instagram.com/p/DYhnz91DJI1/",
-      "posted_at": "2026-05-19T15:31:09+00:00"
+      "state": "pending"
     },
     {
       "id": "w8may-midlayer-reel",
@@ -582,9 +576,7 @@
       "type": "reel",
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778934322/letter-153/midlayer-v3.mp4",
       "caption": "captions/midlayer.txt",
-      "state": "done",
-      "permalink": "https://www.instagram.com/reel/DYkMgSMjCHr/",
-      "posted_at": "2026-05-20T15:30:34+00:00"
+      "state": "pending"
     },
     {
       "id": "w8may-19yo-carousel",
@@ -611,8 +603,26 @@
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778932963/letter-153/actually09-v2.mp4",
       "caption": "captions/actually09.txt",
       "state": "pending"
+    },
+    {
+      "id": "w8may-actually10-reel",
+      "when": "2026-05-21T09:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/actually-10-finding-your-passion",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779323147/ig-posts/jiigwrpcnuk5tiz9pbss.mp4",
+      "caption": "captions/actually10.txt",
+      "state": "pending"
+    },
+    {
+      "id": "w8may-actually11-reel",
+      "when": "2026-05-23T09:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/actually-11-what-failure-teaches",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779323159/ig-posts/m4wcf4qgi8t90qdgkljp.mp4",
+      "caption": "captions/actually11.txt",
+      "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T00:39:01.652049Z",
-  "count": 54
+  "generated_at": "2026-05-21T00:39:12.025615Z",
+  "count": 56
 }
