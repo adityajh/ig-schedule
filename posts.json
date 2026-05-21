@@ -462,8 +462,9 @@
       "when": "2026-05-17T13:00:00+00:00",
       "type": "reel",
       "caption": "captions/namita-ep1-beat4b.txt",
-      "state": "pending",
-      "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4"
+      "state": "done",
+      "reel": "assets/reels/namita-ep1/cut-E-school-of-life-v.mp4",
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-sticker-carousel",
@@ -520,7 +521,8 @@
       "type": "image",
       "image": "assets/quote-cards/w7may-sticker-card-7.png",
       "caption": "captions/w7may-sticker-card-7.txt",
-      "state": "pending"
+      "state": "done",
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w7may-actually-06-reel",
@@ -568,7 +570,8 @@
         "assets/carousels/painters-not-printers/slide-09.png"
       ],
       "caption": "captions/painters-carousel.txt",
-      "state": "pending"
+      "state": "done",
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w8may-midlayer-reel",
@@ -576,7 +579,8 @@
       "type": "reel",
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1778934322/letter-153/midlayer-v3.mp4",
       "caption": "captions/midlayer.txt",
-      "state": "pending"
+      "state": "done",
+      "last_error": "idempotency-guard: id in fired_ids.log"
     },
     {
       "id": "w8may-19yo-carousel",
@@ -623,6 +627,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T00:39:12.025615Z",
+  "generated_at": "2026-05-21T00:40:01.324421Z",
   "count": 56
 }
