@@ -655,7 +655,9 @@
       "folder": "08-Content/may-2026/week-3/actually-10-finding-your-passion",
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779323147/ig-posts/jiigwrpcnuk5tiz9pbss.mp4",
       "caption": "captions/actually10.txt",
-      "state": "pending"
+      "state": "done",
+      "permalink": "https://www.instagram.com/reel/DYmIGkljIRR/",
+      "posted_at": "2026-05-21T09:30:40+00:00"
     },
     {
       "id": "w8may-actually11-reel",
@@ -712,6 +714,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T09:30:02.246996Z",
+  "generated_at": "2026-05-21T09:31:02.018762Z",
   "count": 65
 }
