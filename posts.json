@@ -18,7 +18,9 @@
       "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B9",
       "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340959/ig-posts/gsyhwjlfaq0vtbmixpwx.mp4",
       "caption": "captions/podcast-b9-energy-direction.txt",
-      "state": "pending"
+      "state": "done",
+      "permalink": "https://www.instagram.com/reel/DYnTonDjCYu/",
+      "posted_at": "2026-05-21T20:30:43+00:00"
     },
     {
       "id": "podcast-b7-restless-soul",
@@ -718,6 +720,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T20:30:01.550613Z",
+  "generated_at": "2026-05-21T20:31:01.650723Z",
   "count": 65
 }
