@@ -1,6 +1,42 @@
 {
   "posts": [
     {
+      "id": "podcast-b5-engineer-degree",
+      "when": "2026-05-21T12:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B5",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340921/ig-posts/vq36e9ybq3itjweveakg.mp4",
+      "caption": "captions/podcast-b5-engineer-degree.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-b9-energy-direction",
+      "when": "2026-05-21T20:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B9",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340959/ig-posts/gsyhwjlfaq0vtbmixpwx.mp4",
+      "caption": "captions/podcast-b9-energy-direction.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-b7-restless-soul",
+      "when": "2026-05-22T08:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B7",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340933/ig-posts/mozctvaegvveofhwf2di.mp4",
+      "caption": "captions/podcast-b7-restless-soul.txt",
+      "state": "pending"
+    },
+    {
+      "id": "podcast-b10-frustration-arrow",
+      "when": "2026-05-22T12:30:00+00:00",
+      "type": "reel",
+      "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B10",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340981/ig-posts/wijswfkxoccjsol5rwiz.mp4",
+      "caption": "captions/podcast-b10-frustration-arrow.txt",
+      "state": "pending"
+    },
+    {
       "id": "w5-eatthefrogs-reel",
       "when": "2026-04-28T12:30:00+00:00",
       "type": "reel",
@@ -676,6 +712,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-21T05:25:01.996986Z",
-  "count": 61
+  "generated_at": "2026-05-21T05:26:01.768421Z",
+  "count": 65
 }
