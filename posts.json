@@ -27,7 +27,7 @@
       "when": "2026-05-22T08:30:00+00:00",
       "type": "reel",
       "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B7",
-      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340933/ig-posts/mozctvaegvveofhwf2di.mp4",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779422177/ig-posts/uziiooz0cuc0aavpe5na.mp4",
       "caption": "captions/podcast-b7-restless-soul.txt",
       "state": "pending"
     },
@@ -36,7 +36,7 @@
       "when": "2026-05-22T12:30:00+00:00",
       "type": "reel",
       "folder": "08-Content/may-2026/week-3/podcast-rollout-plan/output/B10",
-      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779340981/ig-posts/wijswfkxoccjsol5rwiz.mp4",
+      "reel_url": "https://res.cloudinary.com/db3zdt3y5/video/upload/v1779422185/ig-posts/ikcctxi9hup4eygmy43w.mp4",
       "caption": "captions/podcast-b10-frustration-arrow.txt",
       "state": "pending"
     },
@@ -720,6 +720,6 @@
       "state": "pending"
     }
   ],
-  "generated_at": "2026-05-22T03:58:02.107179Z",
+  "generated_at": "2026-05-22T03:59:01.970062Z",
   "count": 65
 }
